@@ -1,0 +1,2 @@
+# boilerplate-rust
+template example
